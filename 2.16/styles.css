@@ -1,0 +1,17 @@
+body {
+   background: lightblue;
+}
+
+.center {
+   text-align: center;
+}
+
+.border {
+   border: solid;
+}
+
+.table { 
+   border: solid; 
+   margin-left: auto; 
+   margin-right: auto;
+}
