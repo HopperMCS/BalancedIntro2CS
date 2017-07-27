@@ -12,3 +12,7 @@ That said, likely you want to see just how far I got. I will copy files to respe
 **VCS** - You need to learn to use one. Web developer, systems software developer, engineer, doesn't matter. Tools like Git are used for a specific reason. This way, you can see where you started from ground zero if you screw something up. 
 
 I'm putting this on Git as a way to track my progress and a way for me to backup this stuff so when something happens I don't lose everything.
+
+## Chapter 2 Completion
+You may have noticed some missing exercises. This is because the ones I skipped were not relevant to the task at hand. For example, I decided to use a light blue background for the page instead of using an image. Also, I didn't do the one requiring Flash, for obvious reasons (#GetHacked to those of you that still use Flash).
+
