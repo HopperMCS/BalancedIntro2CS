@@ -16,3 +16,18 @@ I'm putting this on Git as a way to track my progress and a way for me to backup
 ## Chapter 2 Completion
 You may have noticed some missing exercises. This is because the ones I skipped were not relevant to the task at hand. For example, I decided to use a light blue background for the page instead of using an image. Also, I didn't do the one requiring Flash, for obvious reasons (#GetHacked to those of you that still use Flash).
 
+## Chapter 3 (Comments)
+I read chapter 3 to see what it had in it. Two things I want to point out to ya boii David:
+
+**1**. There's a word for the process used by domain name servers to contact other domain name servers to find the IP in relation to a domain - it's called *propagation* and many webhosts give customers a notice saying that it could take up to 48 hours for your site to become publicly visible on the Internet.
+
+**2**. The there is a page in there that mentions how Internet Explorer is top dog and Google Chrome has a small but dedicated following. By 2010 I was using Chrome simply because it was better at rendering pages.
+
+**3**. Reference the *war* between IE and Netscape Navigator as the *browser wars,* **please.** This is basic stuff. Matter of fact, now that I think about it, there's an entire Wikipedia page onthe topic.
+
+**4**. The details around TCP/IP are ones that I won't remember for very long. It's an extreme case of "useless theory," or, simply put, "theory I forgot the specifics to because I never actually have to apply it."
+
+**5**. One of the review questions on here asked about why IE dominates the market. The correct answer? "It doesn't Chrome or bust." Matter of fact, IE no longer exists. They took the axe to Trident as well, supposedly.
+
+## Starting Chapter 4
+I'm starting Chapter 4 soon. I won't be reading any more of the theory stuff until class.
