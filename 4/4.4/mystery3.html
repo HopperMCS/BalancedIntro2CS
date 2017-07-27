@@ -1,0 +1,27 @@
+<!-- Exercise 4.5 -->
+<html>
+   <head>
+      <title>Mystery Image</title>
+   </head>
+
+   <body>
+      <div style="text-align: center">
+         <!-- 
+            Keeping the old img tag to copy/paste one of the URLs from.
+            <img src="http://balance3e.com/Images/mystery.gif" alt="Mystery Image"
+                 onclick="this.src='http://balance3e.com/Images/happy.gif';">       
+         -->
+              
+         <img id="mysteryImg" src="mystery.gif">
+         <p>
+            <input type="button" value="Show Image"
+                   onclick="document.getElementById('mysteryImg')
+                            .src='http://balance3e.com/Images/happy.gif';">
+                            
+            <input type="button" value="Hide Image"
+                   onclick="document.getElementById('mysteryImg')
+                            .src='http://balance3e.com/Images/mystery.gif';">
+         </p>
+      </div>
+   </body>
+</html>
