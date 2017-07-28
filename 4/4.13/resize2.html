@@ -1,0 +1,25 @@
+<!-- Exercise 4.13 -->
+<html>
+   <head>
+      <title>Resize Image</title>
+   </head>
+
+   <body>
+      <div style="text-align: center">
+         <img id="resizedImg" src="bulbon.gif" width=100 height=180>
+         <p>
+            <input type="button" value="Expand Image"
+                   onclick="document.getElementById('resizedImg')
+                            .height=document.getElementById('resizedImg').height*2;
+                            document.getElementById('resizedImg')
+                            .width=document.getElementById('resizedImg').width*2;">
+                            
+            <input type="button" value="Restore Image"
+                   onclick="document.getElementById('resizedImg')
+                            .height=document.getElementById('resizedImg').height/2;
+                            document.getElementById('resizedImg')
+                            .width=document.getElementById('resizedImg').width/2;">
+         </p>
+      </div>
+   </body>
+</html>
