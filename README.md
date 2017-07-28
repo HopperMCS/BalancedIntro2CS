@@ -8,6 +8,13 @@ The "depth" chapters are all located here, by exercise number
 
 That said, likely you want to see just how far I got. I will copy files to respective folders for exercises that build on previous ones if/when applicable. This is not to be shared among students, because it could lead to cheating (JavaScript, I'm looking at you). I helped some students at EHS navigate through Codecademy's HTML/CSS courses, but Mark Suter didn't get far enough into it (I usually end up using Bootstrap for modeling, then CSS all IDs and classes when I'm done modeling - not a firm believer in all websites need to look the same). As for me, I never ended up utilizing the half of Codecademy outside of screwing off during downtime.
 
+## Notice of Conventions
+To make sure that you are reading this README, I'm including this in here as a separate clause, and will redirect you to here for instructions like this. 
+
+Sometimes, the book will give instructions in exercises in ***two pieces***: The first being simply copy text from the book and verify that it works as described in the book. The second, however, is to modify it.
+
+For these types of exercises, *I do not **modify** but instead **copy** to a separate file*. In most of these cases, the "modified" file is named *index.html*. THIS IS IMPORTANT TO UNDERSTAND IF YOU ARE TRYING TO TRACK MY PROGRESS!!!!
+
 ## Intents and Purposes
 **VCS** - You need to learn to use one. Web developer, systems software developer, engineer, doesn't matter. Tools like Git are used for a specific reason. This way, you can see where you started from ground zero if you screw something up. 
 
