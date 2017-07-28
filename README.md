@@ -31,3 +31,6 @@ I read chapter 3 to see what it had in it. Two things I want to point out to ya 
 
 ## Starting Chapter 4
 I'm starting Chapter 4 soon. I won't be reading any more of the theory stuff until class.
+
+## Chapter 4 Complete
+However, I've ommitted exercises 4.16 and 4.17 as they are a ***check for comprehension***. These will not be put here, they're pretty much *rhetorical questions*, at least to me so far. As I've encountered them already, no need to explain. Also, the output Chrome gives is much different from what the book says the errors *should* be. But, remember guys: **CHROME HAS A SMALL BUT DEVOTED FOLLOWING!!** LMFAO.
